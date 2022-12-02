@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OdinRomero
 - 👀 I’m interested in Ecology, Data science and videogames.
-- 🌱 I’m currently learning Data analysis
+- 🌱 I´m currently acquiring more skills in data analytics 
 - 💞️ I’m looking to collaborate on a big project where i can show all the skills that I already learned
 - 📫 How to reach me odinromerofernandez@outlook.com
 
