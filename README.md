@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OdinRomero](https://github.com/OdinRomero)
 
-- 💬 Ask me about **Lenguaje R y Python**
+- 💬 Ask me about **Lenguaje R and Python**
 
 - 📫 How to reach me **odinromerofernandez@outlook.com**
 
